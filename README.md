@@ -8,9 +8,9 @@ USE:
 
 OR check out the online version at https://croker.shinyapps.io/ffutrackr/
 
-!(Front page)(demo1.png)
+![Front page](demo1.png)
 
-!(Filter page)(demo2.png)
+![Filter page](demo2.png)
 
 
 Structure:
