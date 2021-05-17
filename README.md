@@ -8,7 +8,8 @@ USE:
 
 OR check out the online version at https://croker.shinyapps.io/ffutrackr/
 
-![Front page](demo1.png)
+
+<img src="demo1.png" alt="drawing" width="200"/>
 
 ![Filter page](demo2.png)
 
