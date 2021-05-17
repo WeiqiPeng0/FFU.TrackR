@@ -9,9 +9,9 @@ USE:
 OR check out the online version at https://croker.shinyapps.io/ffutrackr/
 
 
-<img src="demo1.png" alt="drawing" width="200"/>
+<img src="demo1.png" alt="drawing" width="500"/>
 
-![Filter page](demo2.png)
+<img src="demo2.png" alt="drawing" width="400"/>
 
 
 Structure:
