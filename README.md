@@ -6,6 +6,8 @@ USE:
 2. Install dependent packages
 3. run "runApp()" in the directory
 
+OR check out the online version at https://croker.shinyapps.io/ffutrackr/
+
 Structure:
  - www: dir that contains all css files
  - ui.R: the user interface
