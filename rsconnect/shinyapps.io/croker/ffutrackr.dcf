@@ -1,0 +1,14 @@
+name: ffutrackr
+title:
+username:
+account: croker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4141045
+bundleId: 4605826
+url: https://croker.shinyapps.io/ffutrackr/
+when: 1621229415.23101
+lastSyncTime: 1621229415.23101
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 110520_proxOrg_FFU - Detailed FFU Cluster Analysis.csv|110520_proxOrg_FFU - Summary FFU Cluster Analysis.csv|note.txt

@@ -1,0 +1,5 @@
+Notes here to keep everyone on page:
+
+
+For the use css, refer to:
+https://rstudio.github.io/shinydashboard/appearance.html#css
