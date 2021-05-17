@@ -1,6 +1,8 @@
 # FFUTrackR
 On-going project (Croker Lab)
 
+FFU.TrackR is a R-Shiny based application to do fast data visualization, especially tailored for biomedical data formats.
+
 USE:
 1. Install Rstudio
 2. Install dependent packages (RShiny, tidyverse, DT, etc.)
