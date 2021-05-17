@@ -21,7 +21,8 @@ Structure:
 
 Notice:
  - The input file need to contain a header which is a row of variable names
- - Any row that contains one or more NA shall be removed
+ - Any row that contains one or more NA shall be removed from calculation.
+   The user is accountable for preprocessing the missing values before passing in the data.
  - Only numeric columns shall be selected for plotting
  - All statistics are by default calculted on filtered data
  - The input treatment names won't display unless the input string, if splitted by semicolons, matches current number of treatments.
