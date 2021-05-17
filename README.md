@@ -3,7 +3,7 @@ On-going project (Croker Lab)
 
 USE:
 1. Install Rstudio
-2. Install dependent packages
+2. Install dependent packages (RShiny, tidyverse, DT, etc.)
 3. run "runApp()" in the directory
 
 OR check out the online version at https://croker.shinyapps.io/ffutrackr/
