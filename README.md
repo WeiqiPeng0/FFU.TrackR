@@ -19,4 +19,9 @@ Structure:
  - ui.R: the user interface
  - server.R: the backend file
 
+Notice:
+ - Only numeric columns shall be selected for plotting
+ - All statistics are by default calculted on filtered data
+ - The input treatment names won't display unless the input string, if splitted by semicolons, matches current number of treatments.
+
 For questions (or suggestions and improvements), please contact us bcroker@ucsd.edu or wep012@ucsd.edu. This is a work in progress, so we welcome your feedback!
