@@ -20,6 +20,7 @@ Structure:
  - server.R: the backend file
 
 Notice:
+ - The input file need to contain a header with variable names
  - Only numeric columns shall be selected for plotting
  - All statistics are by default calculted on filtered data
  - The input treatment names won't display unless the input string, if splitted by semicolons, matches current number of treatments.
